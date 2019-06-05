@@ -1,2 +1,2 @@
 # photoelectron
-点光子教育
+电光子教育
